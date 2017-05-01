@@ -41,9 +41,14 @@ Myślę, że fajnie by było jakby kilka osób nie oddało żywcem tego kodu tak
 System jest gotowy do użytku. Nie ma żadnego wyglądu bo nie musi. Poniżej kilka zdjęć:
 <br />
 <br />
-Logowanie:
+<br />
+###Logowanie:
+<br />
 ![alt text](http://i65.tinypic.com/2hfqssn.png)
 <br />
 <br />
-Strona główna po zalogowaniu:
+<br />
+<br />
+###Strona główna po zalogowaniu:
+<br />
 ![alt text](http://i65.tinypic.com/6iv5so.png)
