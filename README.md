@@ -39,6 +39,8 @@ Myślę, że fajnie by było jakby kilka osób nie oddało żywcem tego kodu tak
 
 ## 5. Gotowe
 System jest gotowy do użytku. Nie ma żadnego wyglądu bo nie musi. Poniżej kilka zdjęć:
+<br />
+<br />
 Logowanie:
 ![alt text](http://i65.tinypic.com/2hfqssn.png)
 <br />
