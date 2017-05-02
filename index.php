@@ -37,7 +37,7 @@ else{
 
   else{
     /*Pobranie wpisów z bazy danych*/
-    $wynik = mysql_query("SELECT datagodzina, wpis FROM wpisy ORDER BY datagodzina") or die("Błąd bazy danych");
+    $wynik = mysql_query("SELECT datagodzina, wpis FROM wpisy ORDER BY datagodzina DESC") or die("Błąd bazy danych");
 
     echo '<center><a href="logout.php">Wyloguj</a><br><br>';
 
